@@ -1,0 +1,21 @@
+{
+    "name": "sablj/pzi_planer_putovanja",
+    "description": "A web application for planning personalized trips using AI recommendations.",
+    "type": "project",
+    "require": {
+        "laravel/laravel": "y"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sablj\\PziPlanerPutovanja\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sabljicmija",
+            "email": "mija.sabljic@fpmoz.sum.ba"
+        }
+    ],
+    "minimum-stability": "stable"
+}
